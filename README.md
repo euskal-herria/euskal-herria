@@ -1,14 +1,9 @@
-## Kaixo <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/d2a7abf3-a5b0-4aad-be5f-6bb319f9b53a">
-
-
-<p align="center">
-<img width="100" height="110" alt="image" src="https://github.com/user-attachments/assets/498dd40d-8f0f-426d-b66a-324b7713a2b0">
-</p>
+## Kaixo <img width="29" height="29" alt="image" src="https://github.com/user-attachments/assets/abd9c589-9536-4462-add0-0786066e3d54">
 
 <p align="center">
-$\Huge\color{green}{\textsf{EUSKAL HERRIA}}$
-  $\Huge\color{green}{\textsf{MAITE DUT}}$
-</p>
+  $\large\color{green}{\textsf{Jaun-Goikua eta Lagi-Zarra}}$
+  
+$\Huge\color{green}{\textsf{GORA EUSKADI!}}$
 
 <!--
 Source - https://stackoverflow.com/a
@@ -22,7 +17,6 @@ Retrieved 2026-01-10, License - CC BY-SA 4.0
 </kbd>
 </p>
 
-
 <p align="center">
-<img width="31" height="29" alt="image" src="https://github.com/user-attachments/assets/abd9c589-9536-4462-add0-0786066e3d54">
+<img width="100" height="110" alt="image" src="https://github.com/user-attachments/assets/498dd40d-8f0f-426d-b66a-324b7713a2b0">
 </p>
