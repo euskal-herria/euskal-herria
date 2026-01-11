@@ -1,10 +1,17 @@
-## Kaixo <img width="29" height="29" alt="image" src="https://github.com/user-attachments/assets/abd9c589-9536-4462-add0-0786066e3d54">
+<img width="500" height="595" alt="image" src="https://github.com/user-attachments/assets/afd6f5de-585b-48d4-8f9f-3952185f7a0d" />
+
+
+<img width="1280" height="77" alt="image" src="https://github.com/user-attachments/assets/5022dd15-bd2a-4026-93dc-c9305a3b9785" />
 
   <p align="center">
-    $\Huge\color{green}{\textsf{Abestu gora Euskadi}}$
-  $\huge\color{green}{\textsf{aintza ta aintza}}$
-    $\LARGE\color{green}{\textsf{bere goiko Jaun Onari!}}$
+    $\Huge\color{Light Gray}{\textsf{Abestu gora Euskadi}}$
+  $\huge\color{Light Gray}{\textsf{aintza ta aintza}}$
+  $\LARGE\color{Light Gray}{\textsf{bere goiko Jaun Onari!}}$
   </p>
+
+<img width="1280" height="77" alt="image" src="https://github.com/user-attachments/assets/5022dd15-bd2a-4026-93dc-c9305a3b9785" />
+
+
 
 <!--
 Source - https://stackoverflow.com/a
