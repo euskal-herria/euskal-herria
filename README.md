@@ -1,16 +1,22 @@
-## Kaixo <img width="31" height="29" alt="image" src="https://github.com/user-attachments/assets/abd9c589-9536-4462-add0-0786066e3d54">
-
+## Kaixo <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/d2a7abf3-a5b0-4aad-be5f-6bb319f9b53a">
+  
+<!--
+Source - https://stackoverflow.com/a
+Posted by kdbanman, modified by community. See post 'Timeline' for change history
+Retrieved 2026-01-10, License - CC BY-SA 4.0
+-->
 
 <p align="center">
-  <img width="50" height="40" alt="Image" src="https://github.com/user-attachments/assets/bc055135-b9be-47a9-82b3-b67e74b0617b">
-<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/d2a7abf3-a5b0-4aad-be5f-6bb319f9b53a">
-  <img width="50" height="40" alt="Image" src="https://github.com/user-attachments/assets/bc055135-b9be-47a9-82b3-b67e74b0617b"
+<kbd>
+  <img src="https://github.com/user-attachments/assets/98c2af7f-d1ac-4e85-87a9-b5a8b08ea5c2">
+</kbd>
 </p>
 
 <p align="center">
-$\Huge\color{green}{\textsf{EUSKAL HERRIA MAITE DUT}}$
+$\Huge\color{green}{\textsf{EUSKAL HERRIA}}$
+  $\Huge\color{green}{\textsf{MAITE DUT}}$
 </p>
 
 <p align="center">
-<img width="90" height="50" alt="image" src="https://github.com/user-attachments/assets/f5a2208f-f5ad-46c8-b408-7dbb7d7d7217">
+<img width="31" height="29" alt="image" src="https://github.com/user-attachments/assets/abd9c589-9536-4462-add0-0786066e3d54">
 </p>
