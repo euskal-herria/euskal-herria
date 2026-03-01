@@ -1,5 +1,5 @@
 <p align="center">
-$\Huge\color{Light Gray}{\textsf{ABESTU GORA EUSKADI, AINTZA TA AINTZA, BERE GOIKO JAUN ONARI}}$
+$\Huge\color{Light Gray}{\textsf{Txapela buruan eta ibili munduan!}}$
 </p>
   
 <img width="1280" height="77" alt="image" src="https://github.com/user-attachments/assets/5022dd15-bd2a-4026-93dc-c9305a3b9785" />
