@@ -1,5 +1,5 @@
 <p align="center">
-$\Huge\color{Light Gray}{\textsf{Txapela buruan eta ibili munduan}}$
+$\small\color{Light Gray}{\textsf{Txapela buruan eta ibili munduan}}$
 </p>
 
 <!--
